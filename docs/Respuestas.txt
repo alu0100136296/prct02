@@ -1,6 +1,9 @@
-
 ¿Que es GitHub?
+GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Utiliza el framework Ruby on Rails por GitHub, Inc. (anteriormente conocida como Logical Awesome).
+El código se almacena de forma pública, aunque también se puede hacer de forma privada, creando una cuenta de pago.
 
 ¿Que es una clave publica?
+Es el método criptográfico que usa un par de claves para el envío de mensajes.
 
 ¿Que es un repositorio remoto?
+Los repositorios remotos son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red.
